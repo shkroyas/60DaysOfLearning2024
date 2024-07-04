@@ -1,5 +1,5 @@
 {
-  "name": "learningwithleapfrog",
+  "name": "javascriptmodules",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
@@ -8,9 +8,10 @@
   },
   "author": "Royas",
   "license": "ISC",
-  "description": "",
+  "description": "CommonJs Vs EcmaScript Modules",
   "dependencies": {
     "express": "^4.19.2",
+    "nodemon": "^3.1.4",
     "slugify": "^1.6.6"
   }
 }
