@@ -1,0 +1,19 @@
+nav {
+    background-color: black;
+    padding: 23px;
+    width: 1480px; /* Ensure nav takes full width */
+}
+
+ul {
+    display: flex;
+    justify-content: space-between; /* Spread items evenly */
+    width: 100%; /* Ensure ul takes full width */
+    padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margin */
+    gap: 34px; /* Space between items, can adjust as needed */
+}
+
+li {
+    list-style-type: none;
+    color: white; /* Ensure the text is visible on black background */
+}
